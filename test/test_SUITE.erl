@@ -7,4 +7,4 @@
 
 all() -> [test].
 
-test(_) -> gen_test:test().
+test(_) -> test_test_thrift:namespace().
